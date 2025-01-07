@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        バックエンドエンジニアとして働いています。
+        フルスタックエンジニアとして働いています。
       </section>
 
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
