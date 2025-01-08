@@ -9,7 +9,6 @@ import Head from "next/head";
 export async function getStaticProps() {
   // mdファイルのデータを取得
   const allPostsData = getPostsData();
-  console.log(allPostsData);
 
   return {
     props: {

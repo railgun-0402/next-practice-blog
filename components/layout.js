@@ -3,7 +3,7 @@ import styles from "./layout.module.css";
 import utilStyles from "../src/styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Shin Code";
+const name = "railgun-0402";
 
 export const siteTitle = "Next.js blog";
 
